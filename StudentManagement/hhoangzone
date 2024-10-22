@@ -1,0 +1,54 @@
+[33mcommit a56b38da3c622e13ba6f25fc469bd80e226f5a87[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mManh[m[33m)[m
+Author: hhoangzone <nguyenhuyhoan281005@gmail.com>
+Date:   Sat Oct 12 00:16:57 2024 +0700
+
+    doneForgetPass
+
+[33mcommit 89e6b2790739fbd3d3a9e5d23ab55050e121f853[m
+Merge: 214cdeb b04f0dd
+Author: tomzumbi <manh10022004@gmail.com>
+Date:   Thu Oct 10 22:32:58 2024 +0700
+
+    m
+
+[33mcommit b04f0ddab005b361319630c334339c23de1d1cd7[m[33m ([m[1;32mThuyet[m[33m)[m
+Author: tomzumbi <manh10022004@gmail.com>
+Date:   Thu Oct 10 22:29:54 2024 +0700
+
+    thuyet
+
+[33mcommit 214cdebeb40f93d035350dbcc2e990c98c52d464[m
+Author: tomzumbi <manh10022004@gmail.com>
+Date:   Thu Oct 10 22:28:30 2024 +0700
+
+    login,register,forget
+
+[33mcommit d0085f6daba812f8290c782d73a94e3b03b92d97[m
+Author: tomzumbi <manh10022004@gmail.com>
+Date:   Thu Oct 10 22:26:56 2024 +0700
+
+    login,register
+
+[33mcommit 9c39f422e7dde283be801e21de36b1b0e27a5a23[m
+Author: tomzumbi <manh10022004@gmail.com>
+Date:   Thu Oct 10 22:25:45 2024 +0700
+
+    Login, Register
+
+[33mcommit e1c6d8eda2dc6e73cfc81f6c823d255cdd0d707d[m[33m ([m[1;31morigin/Thuyet[m[33m)[m
+Author: Nguyen Van Thuyet <thuyet1230@gmail.com>
+Date:   Thu Oct 10 22:17:05 2024 +0700
+
+    menuStudent
+
+[33mcommit 8fcdece6f68ed605948c07a27ddfa992ddc93854[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Trung010223 <ngoquangtrungnqt@gmail.com>
+Date:   Wed Oct 9 18:51:01 2024 +0700
+
+    first commit
+
+[33mcommit e36feec6461b2388e33af86513295e5b7f0f8e18[m
+Author: Trung010223 <ngoquangtrungnqt@gmail.com>
+Date:   Wed Oct 9 18:50:32 2024 +0700
+
+    class
